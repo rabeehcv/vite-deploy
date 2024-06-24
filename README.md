@@ -1,8 +1,12 @@
-# React + Vite
+# Vite React App Deployment on GitHub
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository provides a step-by-step guide on how to deploy a Vite React application on GitHub. 
 
-Currently, two official plugins are available:
+## Getting Started
+### 1. Create a Vite React App
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+If you haven't already, create a Vite React app by running the following commands:
+```
+npm create vite@latest
+```
+Give a project name and choose framework as React. Select a varient.
